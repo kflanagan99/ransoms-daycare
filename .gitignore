@@ -1,0 +1,13 @@
+
+# Local database
+daycare.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+
+# VS Code settings
+.vscode/
